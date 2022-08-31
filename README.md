@@ -14,11 +14,11 @@
 <br>
 Sou desenvolvedor Front-end e UX/UI Design
 <br>
-- ❤ Estudante de Analise e Desenvolvimento de Sistema
+- 👩‍💻 Estudante de Analise e Desenvolvimento de Sistema
 <br>
 - 💙 Fã de Design
 <br>
-- 👩‍💻 Aprendendo algo sobre Front-end e UX/UI Design
+- 👩‍💻 Aprendendo algo sobre REACT
 
 <div>
 <br>
