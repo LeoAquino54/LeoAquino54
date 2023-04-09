@@ -1,6 +1,6 @@
 
 <img src = "banner.gif" width = "325px" align = "right">
-#😎Seja bem vindo ao meu GitHub!
+#✌🏻 Seja bem vindo ao meu GitHub!
 
   <div id="badges">
   <br>
@@ -14,16 +14,20 @@
 <br>
 Sou Analista de Suporte Técnico
 <br>
-- 👩‍💻 Formado em Analise e Desenvolvimento de Sistema
+- 🟢 Formado em Analise e Desenvolvimento de Sistema
 <br>
-- 💻 Cursando Pós Graduação em ARQUITETURA E INFRAESTRUTURA DE T.I  e DEFESA CIBERNÉTICA
+- 🟠 Cursando Pós Graduação em ARQUITETURA E INFRAESTRUTURA DE T.I  e DEFESA CIBERNÉTICA
 <br>
-- 💻 From IT to Cyber - Cecyber
+- 🟠 From IT to Cyber - Cecyber
 <br>
-- 💻 Domínio intermediário em gerenciamento de servidores Windows e Linux, incluindo configuração e manutenção de serviços e aplicativos.
+- 💻 Conhecimento em gerenciamento de servidores Windows e Linux, incluindo configuração e manutenção de serviços e aplicativos.
 <br>
-- 💻 Domínio básico em monitoramento de redes e servidores através de Zabbix + Grafana
-
+- 💻 Conhecimento em monitoramento de redes e servidores através de Zabbix + Grafana
+<br>
+- 💻 Conhecimentos em redes de computadores Ethernet, Wireless, ambientes GNU/Linux, Windows Server, Mikrotik.
+<br>
+- 💻 Conhecimento em PROXMOX E VMWARE ESXI
+<br>
 <div>
 <br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
