@@ -20,11 +20,11 @@ Sou Analista de Suporte Técnico
 <br>
 - 🟠 From IT to Cyber - Cecyber
 <br>
-- 💻 Conhecimento em gerenciamento de servidores Windows e Linux, incluindo configuração e manutenção de serviços e aplicativos.
+- 💻 Conhecimento em gerenciamento de servidores Windows Server e Linux, incluindo configuração e manutenção de serviços e aplicativos.
 <br>
 - 💻 Conhecimento em monitoramento de redes e servidores através de Zabbix + Grafana
 <br>
-- 💻 Conhecimentos em redes de computadores Ethernet, Wireless, ambientes GNU/Linux, Windows Server, Mikrotik.
+- 💻 Conhecimentos em redes de computadores Ethernet, Wireless, ambientes GNU/Linux, Mikrotik.
 <br>
 - 💻 Conhecimento em PROXMOX E VMWARE ESXI
 <br>
