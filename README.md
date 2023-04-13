@@ -28,6 +28,8 @@ Sou Analista de Suporte Técnico
 <br>
 - 💻 Conhecimento em PROXMOX E VMWARE ESXI
 <br>
+- 💻 Conhecimentos básicos em banco de dados Microsoft Sql Server, MySQL, Oracle Database e MongoDB
+<br>
 <div>
 <br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
