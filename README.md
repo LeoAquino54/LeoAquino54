@@ -18,6 +18,7 @@ Sou Desenvolvedor Web
 <br>
 - 🟠 Cursando Engenharia Front-End na EBAC
 <br>
+<br>
 Como um profissional formado em Análise e Desenvolvimento de Sistemas, tenho experiência em prestação de suporte relacionado ao CPD e ERP utilizado, além de conhecimentos em gerenciamento de servidores Windows Server e Linux, incluindo configuração e manutenção de serviços e aplicativos. Possuo habilidades em monitoramento de redes e servidores usando Zabbix + Grafana, além de conhecimentos em redes de computadores Ethernet, Wireless e ambientes GNU/Linux. Também tenho experiência na administração de hypervisors PROXMOX e VMWARE ESXI.
 
 Além disso, possuo conhecimentos básicos em bancos de dados como Microsoft SQL Server, MySQL. Tenho habilidades em Docker para implantação e gerenciamento de aplicativos em contêineres. Também fiz cursos relacionados a UX/UI e possuo conhecimento em HTML, CSS e JavaScript. Atualmente, estou fazendo um curso de engenharia front-end para aprimorar minhas habilidades nessa área. Estou sempre em busca de novos conhecimentos e tecnologias para agregar valor às soluções de TI que ofereço.
