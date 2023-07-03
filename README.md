@@ -32,7 +32,6 @@ Além disso, possuo conhecimentos básicos em bancos de dados como Microsoft SQL
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original-wordmark.svg" title="canva" alt="canva" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="photoshop" alt="canva" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original-wordmark.svg" title="Illustrator alt="canva" width="40" height="40"/>&nbsp;
 
 
 </div>
