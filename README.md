@@ -29,7 +29,6 @@ Além disso, possuo conhecimentos básicos em bancos de dados como Microsoft SQL
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="40" height="40"/>&nbsp;
-  
   <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original-wordmark.svg" title="canva" alt="canva" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="photoshop" alt="canva" width="40" height="40"/>&nbsp;
 
